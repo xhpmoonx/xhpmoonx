@@ -1,49 +1,83 @@
-<!-- Banner Image -->
-<p align="center">
-  <img src="./github-header-image (3).png" alt="Mahshad Banner" />
-</p>
+<div align="center">
 
-### Hi there 👋
+# Hi, I'm Mahshad!
 
-I’m currently pursuing ECE with a strong academic foundation in Mathematics. I love combining analytical thinking with practical engineering to solve real-world problems using code and algorithms.
+### Electrical & Computer Engineering @ University of Arizona
 
-I’m curious, driven by problem-solving, and constantly exploring how mathematics can power modern technologies.
+</div>
 
-**My Interests**:
-- Machine Learning Algorithms
-- Data Analysis & Visualization
-- Optimization & Numerical Methods
-- Embedded Programming
+## About Me
 
-**I’m open to**:
-- Collaborations on ML-related projects
-- Research assistance or internship opportunities
-- Learning from real-world, open-source contributions
+I am a graduate student in **Electrical and Computer Engineering** at the **University of Arizona**, with a background in **Mathematics and Applications**. My work brings together machine learning, mathematical modeling, and data-driven analysis across several research settings. Recent projects have involved **visual detection and tracking, post-training model behavior, and simulation-based analysis of student progression and curricular systems**. I am particularly interested in research that connects methodological development with real-world data and empirical evaluation.
 
 ---
 
-## 🛠️ Skills
+## Research Focus
 
-### Languages:
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ Efficient AI
+
+Model optimization, efficient learning methods, and computational approaches for improving the efficiency of machine learning systems.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 👁️ Computer Vision
+
+Object detection and tracking, motion analysis, and trajectory modeling from visual data.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ Trustworthy AI
+
+Post-training model behavior, robustness, representation changes, and controlled modification of learned information.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📊 Learning Analytics
+
+Curricular analytics, simulation, and data-driven analysis of student progression and educational outcomes.
+
+</td>
+</tr>
+</table>
+
+---
+
+## Technical Skills
+
+### Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 
-### Frameworks & Libraries:
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+### Machine Learning & Data
 
-### Tools:
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+### Development & Tools
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
